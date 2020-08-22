@@ -1,0 +1,6 @@
+package com.gemy.posts_repository_bloc
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
